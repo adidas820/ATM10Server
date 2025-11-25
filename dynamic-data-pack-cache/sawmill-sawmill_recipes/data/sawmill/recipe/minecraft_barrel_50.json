@@ -1,12 +1,22 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "forbidden_arcanus:edelwood_log"
-  },
+  "ingredient": [
+    {
+      "item": "biomeswevegone:maple_log"
+    },
+    {
+      "item": "biomeswevegone:maple_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_maple_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_maple_wood"
+    }
+  ],
   "result": {
     "id": "minecraft:barrel",
     "count": 1
   },
-  "ingredient_count": 3,
   "type": "sawmill:woodcutting"
 }

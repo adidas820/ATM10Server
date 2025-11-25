@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:thunder_bolt_log"
+      "item": "productivetrees:yew_log"
     },
     {
-      "item": "productivetrees:thunder_bolt_wood"
+      "item": "productivetrees:yew_wood"
     },
     {
-      "item": "productivetrees:thunder_bolt_stripped_log"
+      "item": "productivetrees:yew_stripped_log"
     },
     {
-      "item": "productivetrees:thunder_bolt_stripped_wood"
+      "item": "productivetrees:yew_stripped_wood"
     }
   ],
   "result": {

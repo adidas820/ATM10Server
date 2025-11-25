@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "regions_unexplored:alpha_log"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:bull_pine_log"
+    },
+    {
+      "item": "productivetrees:bull_pine_wood"
+    },
+    {
+      "item": "productivetrees:bull_pine_stripped_log"
+    },
+    {
+      "item": "productivetrees:bull_pine_stripped_wood"
+    }
+  ],
   "result": {
     "id": "minecraft:barrel",
     "count": 1

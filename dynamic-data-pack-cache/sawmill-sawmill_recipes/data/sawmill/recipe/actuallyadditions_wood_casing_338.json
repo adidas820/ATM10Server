@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "iceandfire:dreadwood_log"
-  },
+  "ingredient": [
+    {
+      "item": "productivetrees:night_fuchsia_log"
+    },
+    {
+      "item": "productivetrees:night_fuchsia_wood"
+    },
+    {
+      "item": "productivetrees:night_fuchsia_stripped_log"
+    },
+    {
+      "item": "productivetrees:night_fuchsia_stripped_wood"
+    }
+  ],
   "result": {
     "id": "actuallyadditions:wood_casing",
     "count": 1

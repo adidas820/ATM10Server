@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:blackthorn_log"
-    },
-    {
-      "item": "productivetrees:blackthorn_wood"
-    },
-    {
-      "item": "productivetrees:blackthorn_stripped_log"
-    },
-    {
-      "item": "productivetrees:blackthorn_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "tag": "c:logs/archwood"
+  },
   "result": {
     "id": "supplementaries:item_shelf",
     "count": 6

@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "eternal_starlight:northland_log"
+      "item": "aether:skyroot_log"
     },
     {
-      "item": "eternal_starlight:northland_wood"
+      "item": "aether:skyroot_wood"
     },
     {
-      "item": "eternal_starlight:stripped_northland_log"
+      "item": "aether:stripped_skyroot_log"
     },
     {
-      "item": "eternal_starlight:stripped_northland_wood"
+      "item": "aether:stripped_skyroot_wood"
     }
   ],
   "result": {

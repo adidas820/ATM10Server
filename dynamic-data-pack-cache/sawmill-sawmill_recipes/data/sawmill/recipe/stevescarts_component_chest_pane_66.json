@@ -1,11 +1,22 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "forbidden_arcanus:edelwood_log"
-  },
+  "ingredient": [
+    {
+      "item": "biomeswevegone:zelkova_log"
+    },
+    {
+      "item": "biomeswevegone:zelkova_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_zelkova_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_zelkova_wood"
+    }
+  ],
   "result": {
     "id": "stevescarts:component_chest_pane",
-    "count": 7
+    "count": 10
   },
   "type": "sawmill:woodcutting"
 }

@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "twilightforest:dark_log"
+      "item": "integrateddynamics:menril_log"
     },
     {
-      "item": "twilightforest:dark_wood"
-    },
-    {
-      "item": "twilightforest:stripped_dark_log"
-    },
-    {
-      "item": "twilightforest:stripped_dark_wood"
+      "item": "integrateddynamics:menril_wood"
     }
   ],
   "result": {

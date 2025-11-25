@@ -1,7 +1,7 @@
 {
   "group": "planks",
   "ingredient": {
-    "item": "regions_unexplored:brimwood_planks"
+    "item": "eternal_starlight:scarlet_planks"
   },
   "result": {
     "id": "minecraft:bowl",

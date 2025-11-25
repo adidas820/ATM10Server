@@ -1,8 +1,19 @@
 {
   "group": "logs",
-  "ingredient": {
-    "item": "forbidden_arcanus:edelwood_log"
-  },
+  "ingredient": [
+    {
+      "item": "biomeswevegone:cypress_log"
+    },
+    {
+      "item": "biomeswevegone:cypress_wood"
+    },
+    {
+      "item": "biomeswevegone:stripped_cypress_log"
+    },
+    {
+      "item": "biomeswevegone:stripped_cypress_wood"
+    }
+  ],
   "result": {
     "id": "stevescarts:module_seat",
     "count": 1

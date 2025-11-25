@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:spirit_log"
+      "item": "allthemodium:soul_log"
     },
     {
-      "item": "biomeswevegone:spirit_wood"
-    },
-    {
-      "item": "biomeswevegone:stripped_spirit_log"
-    },
-    {
-      "item": "biomeswevegone:stripped_spirit_wood"
+      "item": "allthemodium:stripped_soul_log"
     }
   ],
   "result": {

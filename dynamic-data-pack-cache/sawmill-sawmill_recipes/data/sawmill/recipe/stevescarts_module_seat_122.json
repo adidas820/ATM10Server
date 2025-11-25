@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "regions_unexplored:pink_bioshroom_stem"
-    },
-    {
-      "item": "regions_unexplored:pink_bioshroom_hyphae"
-    },
-    {
-      "item": "regions_unexplored:stripped_pink_bioshroom_stem"
-    },
-    {
-      "item": "regions_unexplored:stripped_pink_bioshroom_hyphae"
-    }
-  ],
+  "ingredient": {
+    "tag": "c:logs/archwood"
+  },
   "result": {
     "id": "stevescarts:module_seat",
     "count": 1

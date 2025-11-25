@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:copoazu_log"
+      "item": "integrateddynamics:menril_log"
     },
     {
-      "item": "productivetrees:copoazu_wood"
-    },
-    {
-      "item": "productivetrees:copoazu_stripped_log"
-    },
-    {
-      "item": "productivetrees:copoazu_stripped_wood"
+      "item": "integrateddynamics:menril_wood"
     }
   ],
   "result": {

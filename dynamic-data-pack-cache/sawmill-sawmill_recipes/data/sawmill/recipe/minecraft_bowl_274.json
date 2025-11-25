@@ -2,21 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:plantain_log"
+      "item": "undergarden:smogstem_log"
     },
     {
-      "item": "productivetrees:plantain_wood"
+      "item": "undergarden:smogstem_wood"
     },
     {
-      "item": "productivetrees:plantain_stripped_log"
+      "item": "undergarden:stripped_smogstem_log"
     },
     {
-      "item": "productivetrees:plantain_stripped_wood"
+      "item": "undergarden:stripped_smogstem_wood"
     }
   ],
   "result": {
     "id": "minecraft:bowl",
-    "count": 4
+    "count": 6
   },
   "type": "sawmill:woodcutting"
 }

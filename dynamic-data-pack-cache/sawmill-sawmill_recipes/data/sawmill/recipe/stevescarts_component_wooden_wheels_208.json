@@ -2,16 +2,10 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:hazel_log"
+      "item": "allthemodium:soul_log"
     },
     {
-      "item": "productivetrees:hazel_wood"
-    },
-    {
-      "item": "productivetrees:hazel_stripped_log"
-    },
-    {
-      "item": "productivetrees:hazel_stripped_wood"
+      "item": "allthemodium:stripped_soul_log"
     }
   ],
   "result": {

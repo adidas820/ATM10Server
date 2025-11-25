@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:blue_enchanted_log"
+      "item": "twilightforest:transformation_log"
     },
     {
-      "item": "biomeswevegone:blue_enchanted_wood"
+      "item": "twilightforest:transformation_wood"
     },
     {
-      "item": "biomeswevegone:stripped_blue_enchanted_log"
+      "item": "twilightforest:stripped_transformation_log"
     },
     {
-      "item": "biomeswevegone:stripped_blue_enchanted_wood"
+      "item": "twilightforest:stripped_transformation_wood"
     }
   ],
   "result": {

@@ -1,19 +1,8 @@
 {
   "group": "logs",
-  "ingredient": [
-    {
-      "item": "productivetrees:greenheart_log"
-    },
-    {
-      "item": "productivetrees:greenheart_wood"
-    },
-    {
-      "item": "productivetrees:greenheart_stripped_log"
-    },
-    {
-      "item": "productivetrees:greenheart_stripped_wood"
-    }
-  ],
+  "ingredient": {
+    "item": "regions_unexplored:alpha_log"
+  },
   "result": {
     "id": "aquaculture:wooden_fillet_knife",
     "count": 1

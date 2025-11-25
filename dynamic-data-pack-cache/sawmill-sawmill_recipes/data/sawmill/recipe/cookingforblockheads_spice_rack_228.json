@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:white_willow_log"
+      "item": "productivetrees:apricot_log"
     },
     {
-      "item": "productivetrees:white_willow_wood"
+      "item": "productivetrees:apricot_wood"
     },
     {
-      "item": "productivetrees:white_willow_stripped_log"
+      "item": "productivetrees:apricot_stripped_log"
     },
     {
-      "item": "productivetrees:white_willow_stripped_wood"
+      "item": "productivetrees:apricot_stripped_wood"
     }
   ],
   "result": {

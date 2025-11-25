@@ -163,7 +163,10 @@
       "minecraft:desert": "2025-11-24 19:11:28 +0100",
       "minecraft:frozen_river": "2025-11-24 17:58:01 +0100",
       "minecraft:deep_frozen_ocean": "2025-11-25 20:46:38 +0100",
+      "minecraft:deep_dark": "2025-11-25 23:58:27 +0100",
       "minecraft:cherry_grove": "2025-11-25 20:51:41 +0100",
+      "minecraft:grove": "2025-11-26 00:00:04 +0100",
+      "minecraft:meadow": "2025-11-25 23:59:51 +0100",
       "minecraft:snowy_beach": "2025-11-24 16:39:55 +0100",
       "minecraft:plains": "2025-11-24 15:56:16 +0100",
       "minecraft:warm_ocean": "2025-11-24 19:12:12 +0100"
@@ -274,9 +277,10 @@
       "common_helm": "2025-11-24 15:56:24 +0100",
       "common_hand": "2025-11-24 15:56:23 +0100",
       "common_chest": "2025-11-24 15:59:38 +0100",
-      "common_legs": "2025-11-25 20:03:43 +0100"
+      "common_legs": "2025-11-25 20:03:43 +0100",
+      "common_feet": "2025-11-26 00:31:35 +0100"
     },
-    "done": false
+    "done": true
   },
   "lootr:1chest": {
     "criteria": {
@@ -569,9 +573,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-11-26 00:27:30 +0100",
       "minecraft:stray": "2025-11-24 16:51:46 +0100",
+      "minecraft:silverfish": "2025-11-26 00:00:57 +0100",
       "minecraft:spider": "2025-11-24 16:56:17 +0100",
       "minecraft:zombie": "2025-11-24 16:46:07 +0100",
+      "minecraft:creeper": "2025-11-26 00:34:03 +0100",
       "minecraft:zombie_villager": "2025-11-24 16:46:10 +0100"
     },
     "done": false
@@ -865,6 +872,54 @@
   "cataclysm:find_sunken_city": {
     "criteria": {
       "factory": "2025-11-25 20:47:08 +0100"
+    },
+    "done": true
+  },
+  "mekanismgenerators:wind_generator": {
+    "criteria": {
+      "wind_generator": "2025-11-25 23:51:09 +0100"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-11-25 23:58:27 +0100"
+    },
+    "done": true
+  },
+  "apothic_enchanting:30ench": {
+    "criteria": {
+      "enchanted_item": "2025-11-26 00:22:15 +0100"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-11-26 00:27:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-11-26 00:22:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-11-26 00:27:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-11-26 00:16:46 +0100"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-11-26 00:27:30 +0100"
     },
     "done": true
   },

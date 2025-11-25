@@ -2,16 +2,21 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "minecraft:bamboo_block"
+      "item": "undergarden:smogstem_log"
     },
     {
-      "item": "minecraft:stripped_bamboo_block"
+      "item": "undergarden:smogstem_wood"
+    },
+    {
+      "item": "undergarden:stripped_smogstem_log"
+    },
+    {
+      "item": "undergarden:stripped_smogstem_wood"
     }
   ],
   "result": {
     "id": "minecraft:barrel",
     "count": 1
   },
-  "ingredient_count": 3,
   "type": "sawmill:woodcutting"
 }

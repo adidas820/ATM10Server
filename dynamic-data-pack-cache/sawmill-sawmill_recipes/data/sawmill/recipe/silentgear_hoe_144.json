@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:thunder_bolt_log"
+      "item": "productivetrees:beliy_naliv_apple_log"
     },
     {
-      "item": "productivetrees:thunder_bolt_wood"
+      "item": "productivetrees:beliy_naliv_apple_wood"
     },
     {
-      "item": "productivetrees:thunder_bolt_stripped_log"
+      "item": "productivetrees:beliy_naliv_apple_stripped_log"
     },
     {
-      "item": "productivetrees:thunder_bolt_stripped_wood"
+      "item": "productivetrees:beliy_naliv_apple_stripped_wood"
     }
   ],
   "result": {

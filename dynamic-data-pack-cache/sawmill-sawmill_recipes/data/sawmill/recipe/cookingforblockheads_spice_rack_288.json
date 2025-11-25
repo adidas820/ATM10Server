@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "productivetrees:padauk_log"
+      "item": "productivetrees:elderberry_log"
     },
     {
-      "item": "productivetrees:padauk_wood"
+      "item": "productivetrees:elderberry_wood"
     },
     {
-      "item": "productivetrees:padauk_stripped_log"
+      "item": "productivetrees:elderberry_stripped_log"
     },
     {
-      "item": "productivetrees:padauk_stripped_wood"
+      "item": "productivetrees:elderberry_stripped_wood"
     }
   ],
   "result": {

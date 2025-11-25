@@ -2,16 +2,16 @@
   "group": "logs",
   "ingredient": [
     {
-      "item": "biomeswevegone:spirit_log"
+      "item": "undergarden:grongle_log"
     },
     {
-      "item": "biomeswevegone:spirit_wood"
+      "item": "undergarden:grongle_wood"
     },
     {
-      "item": "biomeswevegone:stripped_spirit_log"
+      "item": "undergarden:stripped_grongle_log"
     },
     {
-      "item": "biomeswevegone:stripped_spirit_wood"
+      "item": "undergarden:stripped_grongle_wood"
     }
   ],
   "result": {
