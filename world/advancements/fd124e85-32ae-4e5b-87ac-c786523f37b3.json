@@ -26,7 +26,8 @@
   "the_bumblezone:structures/enter_all_structures": {
     "criteria": {
       "in_goliath_honey_fountain": "2025-11-22 20:38:35 +0100",
-      "in_mite_fortress": "2025-11-22 20:38:35 +0100"
+      "in_mite_fortress": "2025-11-22 20:38:35 +0100",
+      "in_honey_cave_room": "2025-11-26 20:04:46 +0100"
     },
     "done": false
   },
@@ -429,7 +430,8 @@
     "criteria": {
       "common_helm": "2025-11-23 20:04:35 +0100",
       "common_hand": "2025-11-22 20:57:55 +0100",
-      "common_chest": "2025-11-22 20:57:55 +0100"
+      "common_chest": "2025-11-22 20:57:55 +0100",
+      "common_legs": "2025-11-26 19:41:38 +0100"
     },
     "done": false
   },
@@ -536,6 +538,7 @@
       "minecraft:pillager": "2025-11-23 11:48:49 +0100",
       "minecraft:skeleton": "2025-11-23 12:25:44 +0100",
       "minecraft:silverfish": "2025-11-23 13:12:35 +0100",
+      "minecraft:stray": "2025-11-26 20:46:22 +0100",
       "minecraft:spider": "2025-11-23 12:25:22 +0100",
       "minecraft:zombie": "2025-11-23 12:25:51 +0100",
       "minecraft:creeper": "2025-11-23 12:33:49 +0100",
@@ -600,6 +603,8 @@
   },
   "apotheosis:progression/ascent": {
     "criteria": {
+      "uncommon_legs": "2025-11-26 19:41:38 +0100",
+      "uncommon_chest": "2025-11-26 19:41:40 +0100",
       "uncommon_hand": "2025-11-23 12:27:46 +0100",
       "uncommon_helm": "2025-11-23 20:04:35 +0100"
     },
@@ -707,6 +712,77 @@
       "cardboard_box": "2025-11-25 20:58:29 +0100"
     },
     "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-11-26 21:00:08 +0100"
+    },
+    "done": true
+  },
+  "the_bumblezone:effects/bee_hit_wrath_of_the_hive": {
+    "criteria": {
+      "bee_hit_wrath_of_the_hive": "2025-11-26 20:05:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-11-26 21:08:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-11-26 20:47:32 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:fiery_set": {
+    "criteria": {
+      "fiery_leggings": "2025-11-26 19:38:59 +0100"
+    },
+    "done": false
+  },
+  "apotheosis:progression/summit": {
+    "criteria": {
+      "rare_chest": "2025-11-26 19:41:40 +0100",
+      "rare_legs": "2025-11-26 19:41:38 +0100",
+      "rare_hand": "2025-11-26 19:38:59 +0100"
+    },
+    "done": false
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-11-26 19:55:05 +0100"
+    },
+    "done": true
+  },
+  "ae2:main/root": {
+    "criteria": {
+      "copper": "2025-11-26 21:00:08 +0100"
+    },
+    "done": true
+  },
+  "mekanismtools:alternate_tools": {
+    "criteria": {
+      "tools": "2025-11-26 19:40:54 +0100"
+    },
+    "done": true
+  },
+  "the_bumblezone:tools/craft_honey_compass": {
+    "criteria": {
+      "obtain_honey_compass": "2025-11-26 20:17:04 +0100"
+    },
+    "done": true
+  },
+  "the_bumblezone:biomes/discover_all_biomes": {
+    "criteria": {
+      "floral_meadow": "2025-11-26 20:08:01 +0100",
+      "sugar_water_floor": "2025-11-26 20:07:29 +0100",
+      "hive_wall": "2025-11-26 20:04:59 +0100",
+      "hive_pillar": "2025-11-26 20:04:46 +0100"
+    },
+    "done": false
   },
   "DataVersion": 3955
 }

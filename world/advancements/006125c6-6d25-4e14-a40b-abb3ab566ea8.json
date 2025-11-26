@@ -492,26 +492,31 @@
       "minecraft:pillager": "2025-11-22 21:42:23 +0100",
       "minecraft:blaze": "2025-11-24 17:11:40 +0100",
       "minecraft:skeleton": "2025-11-22 20:53:29 +0100",
+      "minecraft:bogged": "2025-11-23 12:58:28 +0100",
+      "minecraft:hoglin": "2025-11-24 16:31:59 +0100",
+      "minecraft:vindicator": "2025-11-23 17:47:02 +0100",
+      "minecraft:breeze": "2025-11-24 20:40:45 +0100",
+      "minecraft:magma_cube": "2025-11-24 17:29:02 +0100",
+      "minecraft:spider": "2025-11-22 20:51:04 +0100",
+      "minecraft:piglin_brute": "2025-11-24 16:46:17 +0100",
+      "minecraft:creeper": "2025-11-22 21:49:41 +0100",
+      "minecraft:wither": "2025-11-24 19:32:00 +0100",
+      "minecraft:evoker": "2025-11-23 17:46:34 +0100",
+      "minecraft:phantom": "2025-11-26 18:03:21 +0100",
       "minecraft:zombified_piglin": "2025-11-24 19:11:31 +0100",
       "minecraft:witch": "2025-11-23 19:19:06 +0100",
       "minecraft:wither_skeleton": "2025-11-22 21:17:04 +0100",
       "minecraft:husk": "2025-11-24 18:05:01 +0100",
-      "minecraft:bogged": "2025-11-23 12:58:28 +0100",
-      "minecraft:hoglin": "2025-11-24 16:31:59 +0100",
+      "minecraft:ender_dragon": "2025-11-26 17:58:12 +0100",
+      "minecraft:shulker": "2025-11-26 21:30:21 +0100",
       "minecraft:cave_spider": "2025-11-22 21:17:53 +0100",
       "minecraft:piglin": "2025-11-24 17:04:27 +0100",
-      "minecraft:vindicator": "2025-11-23 17:47:02 +0100",
-      "minecraft:breeze": "2025-11-24 20:40:45 +0100",
       "minecraft:stray": "2025-11-22 21:03:26 +0100",
       "minecraft:enderman": "2025-11-24 16:32:29 +0100",
       "minecraft:silverfish": "2025-11-25 21:09:43 +0100",
-      "minecraft:magma_cube": "2025-11-24 17:29:02 +0100",
-      "minecraft:spider": "2025-11-22 20:51:04 +0100",
-      "minecraft:piglin_brute": "2025-11-24 16:46:17 +0100",
-      "minecraft:zombie": "2025-11-22 20:48:48 +0100",
-      "minecraft:creeper": "2025-11-22 21:49:41 +0100",
-      "minecraft:wither": "2025-11-24 19:32:00 +0100",
-      "minecraft:evoker": "2025-11-23 17:46:34 +0100"
+      "minecraft:endermite": "2025-11-26 21:40:19 +0100",
+      "minecraft:vex": "2025-11-26 21:02:32 +0100",
+      "minecraft:zombie": "2025-11-22 20:48:48 +0100"
     },
     "done": false
   },
@@ -1009,6 +1014,7 @@
   },
   "repurposed_structures:mineshafts": {
     "criteria": {
+      "in_mineshaft_end": "2025-11-26 21:34:58 +0100",
       "in_mineshaft_nether": "2025-11-24 17:11:07 +0100"
     },
     "done": false
@@ -1140,9 +1146,10 @@
       "epic_feet": "2025-11-24 19:12:27 +0100",
       "epic_hand": "2025-11-24 18:53:40 +0100",
       "epic_helm": "2025-11-25 21:07:50 +0100",
+      "kill_ender_dragon": "2025-11-26 17:58:12 +0100",
       "epic_chest": "2025-11-25 18:57:28 +0100"
     },
-    "done": false
+    "done": true
   },
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
@@ -1254,7 +1261,8 @@
   },
   "the_bumblezone:music_discs/obtain_all_music_discs": {
     "criteria": {
-      "obtain_music_disc_rivers_of_honey_moserao": "2025-11-25 20:19:14 +0100"
+      "obtain_music_disc_rivers_of_honey_moserao": "2025-11-25 20:19:14 +0100",
+      "obtain_music_disc_la_bee_da_loca": "2025-11-26 20:33:51 +0100"
     },
     "done": false
   },
@@ -1291,6 +1299,7 @@
   },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
+      "phantom": "2025-11-26 18:03:21 +0100",
       "warden": "2025-11-25 21:02:15 +0100"
     },
     "done": false
@@ -1310,6 +1319,102 @@
   "dungeons_arise:find_heavenly_challenger": {
     "criteria": {
       "location0": "2025-11-25 21:21:03 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2025-11-26 17:35:12 +0100"
+    },
+    "done": true
+  },
+  "mekanismgenerators:wind_generator": {
+    "criteria": {
+      "wind_generator": "2025-11-26 17:35:13 +0100"
+    },
+    "done": true
+  },
+  "silentgear:the_end": {
+    "criteria": {
+      "entered_the_end": "2025-11-26 17:54:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-11-26 17:54:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-11-26 17:54:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-11-26 17:58:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-11-26 17:59:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-11-26 18:00:32 +0100"
+    },
+    "done": true
+  },
+  "cataclysm:find_ruined_citadel": {
+    "criteria": {
+      "citadel": "2025-11-26 18:03:41 +0100"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_bucket/obtain_honey_bucket": {
+    "criteria": {
+      "obtain_honey_bucket": "2025-11-26 20:27:22 +0100"
+    },
+    "done": true
+  },
+  "lootr:1shulker": {
+    "criteria": {
+      "opened_shulker": "2025-11-26 21:40:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-11-26 21:23:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-11-26 21:24:27 +0100"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_crystal/obtain_glistering_honey_crystal_block": {
+    "criteria": {
+      "obtain_glistering_honey_crystal_block": "2025-11-26 20:27:22 +0100"
+    },
+    "done": true
+  },
+  "mekanism:infusing_efficiency": {
+    "criteria": {
+      "enriched_material": "2025-11-26 20:27:16 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:manual/resonanz": {
+    "criteria": {
+      "has_item": "2025-11-26 20:27:22 +0100"
     },
     "done": true
   },
