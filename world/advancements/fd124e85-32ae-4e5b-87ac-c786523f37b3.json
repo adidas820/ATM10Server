@@ -431,9 +431,10 @@
       "common_helm": "2025-11-23 20:04:35 +0100",
       "common_hand": "2025-11-22 20:57:55 +0100",
       "common_chest": "2025-11-22 20:57:55 +0100",
-      "common_legs": "2025-11-26 19:41:38 +0100"
+      "common_legs": "2025-11-26 19:41:38 +0100",
+      "common_feet": "2025-11-27 16:51:15 +0100"
     },
-    "done": false
+    "done": true
   },
   "naturesaura:positive_imbalance": {
     "criteria": {
@@ -539,6 +540,7 @@
       "minecraft:skeleton": "2025-11-23 12:25:44 +0100",
       "minecraft:silverfish": "2025-11-23 13:12:35 +0100",
       "minecraft:stray": "2025-11-26 20:46:22 +0100",
+      "minecraft:witch": "2025-11-27 17:29:41 +0100",
       "minecraft:spider": "2025-11-23 12:25:22 +0100",
       "minecraft:zombie": "2025-11-23 12:25:51 +0100",
       "minecraft:creeper": "2025-11-23 12:33:49 +0100",
@@ -606,7 +608,8 @@
       "uncommon_legs": "2025-11-26 19:41:38 +0100",
       "uncommon_chest": "2025-11-26 19:41:40 +0100",
       "uncommon_hand": "2025-11-23 12:27:46 +0100",
-      "uncommon_helm": "2025-11-23 20:04:35 +0100"
+      "uncommon_helm": "2025-11-23 20:04:35 +0100",
+      "uncommon_feet": "2025-11-27 16:51:15 +0100"
     },
     "done": false
   },
@@ -713,30 +716,6 @@
     },
     "done": true
   },
-  "create:copper": {
-    "criteria": {
-      "0": "2025-11-26 21:00:08 +0100"
-    },
-    "done": true
-  },
-  "the_bumblezone:effects/bee_hit_wrath_of_the_hive": {
-    "criteria": {
-      "bee_hit_wrath_of_the_hive": "2025-11-26 20:05:54 +0100"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_ancient_debris": {
-    "criteria": {
-      "ancient_debris": "2025-11-26 21:08:23 +0100"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-11-26 20:47:32 +0100"
-    },
-    "done": true
-  },
   "twilightforest:fiery_set": {
     "criteria": {
       "fiery_leggings": "2025-11-26 19:38:59 +0100"
@@ -747,21 +726,11 @@
     "criteria": {
       "rare_chest": "2025-11-26 19:41:40 +0100",
       "rare_legs": "2025-11-26 19:41:38 +0100",
-      "rare_hand": "2025-11-26 19:38:59 +0100"
+      "rare_hand": "2025-11-26 19:38:59 +0100",
+      "rare_helm": "2025-11-27 18:26:03 +0100",
+      "rare_feet": "2025-11-27 16:51:15 +0100"
     },
     "done": false
-  },
-  "minecraft:end/elytra": {
-    "criteria": {
-      "elytra": "2025-11-26 19:55:05 +0100"
-    },
-    "done": true
-  },
-  "ae2:main/root": {
-    "criteria": {
-      "copper": "2025-11-26 21:00:08 +0100"
-    },
-    "done": true
   },
   "mekanismtools:alternate_tools": {
     "criteria": {
@@ -769,9 +738,9 @@
     },
     "done": true
   },
-  "the_bumblezone:tools/craft_honey_compass": {
+  "minecraft:end/elytra": {
     "criteria": {
-      "obtain_honey_compass": "2025-11-26 20:17:04 +0100"
+      "elytra": "2025-11-26 19:55:05 +0100"
     },
     "done": true
   },
@@ -783,6 +752,56 @@
       "hive_pillar": "2025-11-26 20:04:46 +0100"
     },
     "done": false
+  },
+  "the_bumblezone:effects/bee_hit_wrath_of_the_hive": {
+    "criteria": {
+      "bee_hit_wrath_of_the_hive": "2025-11-26 20:05:54 +0100"
+    },
+    "done": true
+  },
+  "the_bumblezone:tools/craft_honey_compass": {
+    "criteria": {
+      "obtain_honey_compass": "2025-11-26 20:17:04 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-11-26 20:47:32 +0100"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-11-26 21:00:08 +0100"
+    },
+    "done": true
+  },
+  "ae2:main/root": {
+    "criteria": {
+      "copper": "2025-11-26 21:00:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-11-26 21:08:23 +0100"
+    },
+    "done": true
+  },
+  "apotheosis:progression/pinnacle": {
+    "criteria": {
+      "epic_feet": "2025-11-27 16:51:15 +0100",
+      "epic_hand": "2025-11-27 16:49:56 +0100",
+      "epic_helm": "2025-11-27 18:26:03 +0100"
+    },
+    "done": false
+  },
+  "mekanismgenerators:wind_generator": {
+    "criteria": {
+      "wind_generator": "2025-11-27 16:59:53 +0100"
+    },
+    "done": true
   },
   "DataVersion": 3955
 }

@@ -516,7 +516,8 @@
       "minecraft:silverfish": "2025-11-25 21:09:43 +0100",
       "minecraft:endermite": "2025-11-26 21:40:19 +0100",
       "minecraft:vex": "2025-11-26 21:02:32 +0100",
-      "minecraft:zombie": "2025-11-22 20:48:48 +0100"
+      "minecraft:zombie": "2025-11-22 20:48:48 +0100",
+      "minecraft:drowned": "2025-11-27 21:54:20 +0100"
     },
     "done": false
   },
@@ -636,6 +637,7 @@
       "shrubland": "2025-11-23 18:31:47 +0100",
       "grassy_beach": "2025-11-24 16:23:26 +0100",
       "redstone_abyss": "2025-11-24 16:34:15 +0100",
+      "boreal_forest": "2025-11-27 19:23:27 +0100",
       "spires": "2025-11-23 17:11:56 +0100",
       "glistering_meadow": "2025-11-24 16:31:24 +0100",
       "mycotoxic_undergrowth": "2025-11-24 16:32:23 +0100",
@@ -658,6 +660,7 @@
       "cold_river": "2025-11-23 13:54:55 +0100",
       "shrubland": "2025-11-23 18:31:47 +0100",
       "grassy_beach": "2025-11-24 16:23:26 +0100",
+      "boreal_forest": "2025-11-27 19:23:27 +0100",
       "spires": "2025-11-23 17:11:56 +0100",
       "pine_taiga": "2025-11-23 18:35:21 +0100",
       "gravel_beach": "2025-11-23 18:28:26 +0100",
@@ -1008,9 +1011,10 @@
       "minecraft:crimson_forest": "2025-11-24 19:17:28 +0100",
       "minecraft:nether_wastes": "2025-11-24 17:09:14 +0100",
       "minecraft:soul_sand_valley": "2025-11-24 17:13:39 +0100",
-      "minecraft:warped_forest": "2025-11-24 18:32:45 +0100"
+      "minecraft:warped_forest": "2025-11-24 18:32:45 +0100",
+      "minecraft:basalt_deltas": "2025-11-27 16:48:38 +0100"
     },
-    "done": false
+    "done": true
   },
   "repurposed_structures:mineshafts": {
     "criteria": {
@@ -1255,7 +1259,8 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
-      "silver_birch_log": "2025-11-25 19:55:55 +0100"
+      "silver_birch_log": "2025-11-25 19:55:55 +0100",
+      "maple_log": "2025-11-27 21:23:09 +0100"
     },
     "done": false
   },
@@ -1376,15 +1381,27 @@
     },
     "done": true
   },
+  "mekanism:infusing_efficiency": {
+    "criteria": {
+      "enriched_material": "2025-11-26 20:27:16 +0100"
+    },
+    "done": true
+  },
   "the_bumblezone:honey_bucket/obtain_honey_bucket": {
     "criteria": {
       "obtain_honey_bucket": "2025-11-26 20:27:22 +0100"
     },
     "done": true
   },
-  "lootr:1shulker": {
+  "the_bumblezone:honey_crystal/obtain_glistering_honey_crystal_block": {
     "criteria": {
-      "opened_shulker": "2025-11-26 21:40:21 +0100"
+      "obtain_glistering_honey_crystal_block": "2025-11-26 20:27:22 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:manual/resonanz": {
+    "criteria": {
+      "has_item": "2025-11-26 20:27:22 +0100"
     },
     "done": true
   },
@@ -1400,21 +1417,51 @@
     },
     "done": true
   },
-  "the_bumblezone:honey_crystal/obtain_glistering_honey_crystal_block": {
+  "lootr:1shulker": {
     "criteria": {
-      "obtain_glistering_honey_crystal_block": "2025-11-26 20:27:22 +0100"
+      "opened_shulker": "2025-11-26 21:40:21 +0100"
     },
     "done": true
   },
-  "mekanism:infusing_efficiency": {
+  "ars_nouveau:enchanting_apparatus": {
     "criteria": {
-      "enriched_material": "2025-11-26 20:27:16 +0100"
+      "has_enchanting_apparatus": "2025-11-27 18:31:43 +0100"
     },
     "done": true
   },
-  "immersiveengineering:manual/resonanz": {
+  "mekanism:item_transport": {
     "criteria": {
-      "has_item": "2025-11-26 20:27:22 +0100"
+      "basic_logistical_transporter": "2025-11-27 17:59:19 +0100"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_kisegi_sanctuary": {
+    "criteria": {
+      "location0": "2025-11-27 20:45:54 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:magebloom_crop": {
+    "criteria": {
+      "has_magebloom_crop": "2025-11-27 18:36:10 +0100"
+    },
+    "done": true
+  },
+  "mekanism:configurator": {
+    "criteria": {
+      "configurator": "2025-11-27 17:59:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-11-27 18:04:27 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:mark_of_mastery": {
+    "criteria": {
+      "has_mark_of_mastery": "2025-11-27 19:29:03 +0100"
     },
     "done": true
   },

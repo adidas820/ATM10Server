@@ -537,6 +537,7 @@
       "frozen_tundra": "2025-11-24 16:21:46 +0100",
       "cold_river": "2025-11-24 16:26:11 +0100",
       "barley_fields": "2025-11-26 19:35:36 +0100",
+      "redstone_caves": "2025-11-27 18:29:28 +0100",
       "shrubland": "2025-11-25 20:52:19 +0100",
       "arid_mountains": "2025-11-25 20:55:54 +0100",
       "scorching_caves": "2025-11-26 19:32:38 +0100",
@@ -603,28 +604,35 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-11-26 00:27:30 +0100",
+      "minecraft:blaze": "2025-11-27 17:12:23 +0100",
       "minecraft:skeleton": "2025-11-26 16:00:59 +0100",
       "minecraft:zoglin": "2025-11-26 23:58:27 +0100",
+      "minecraft:bogged": "2025-11-26 22:13:31 +0100",
+      "minecraft:ghast": "2025-11-27 00:21:49 +0100",
+      "minecraft:hoglin": "2025-11-26 15:46:56 +0100",
+      "minecraft:vindicator": "2025-11-26 18:56:14 +0100",
+      "minecraft:breeze": "2025-11-27 19:45:44 +0100",
+      "minecraft:spider": "2025-11-24 16:56:17 +0100",
+      "minecraft:piglin_brute": "2025-11-27 00:00:45 +0100",
+      "minecraft:creeper": "2025-11-26 00:34:03 +0100",
+      "minecraft:wither": "2025-11-26 19:14:37 +0100",
+      "minecraft:slime": "2025-11-27 17:37:32 +0100",
+      "minecraft:evoker": "2025-11-27 21:22:10 +0100",
       "minecraft:phantom": "2025-11-26 16:19:06 +0100",
       "minecraft:zombified_piglin": "2025-11-27 00:00:43 +0100",
       "minecraft:witch": "2025-11-26 15:43:02 +0100",
       "minecraft:wither_skeleton": "2025-11-26 16:17:04 +0100",
-      "minecraft:bogged": "2025-11-26 22:13:31 +0100",
-      "minecraft:ghast": "2025-11-27 00:21:49 +0100",
+      "minecraft:husk": "2025-11-27 16:31:07 +0100",
       "minecraft:ender_dragon": "2025-11-26 23:17:30 +0100",
-      "minecraft:hoglin": "2025-11-26 15:46:56 +0100",
       "minecraft:shulker": "2025-11-26 18:03:17 +0100",
+      "minecraft:cave_spider": "2025-11-27 20:47:27 +0100",
       "minecraft:piglin": "2025-11-27 00:02:26 +0100",
-      "minecraft:vindicator": "2025-11-26 18:56:14 +0100",
       "minecraft:stray": "2025-11-24 16:51:46 +0100",
       "minecraft:silverfish": "2025-11-26 00:00:57 +0100",
       "minecraft:enderman": "2025-11-26 23:01:27 +0100",
       "minecraft:endermite": "2025-11-26 18:10:44 +0100",
-      "minecraft:spider": "2025-11-24 16:56:17 +0100",
-      "minecraft:piglin_brute": "2025-11-27 00:00:45 +0100",
+      "minecraft:vex": "2025-11-27 21:22:09 +0100",
       "minecraft:zombie": "2025-11-24 16:46:07 +0100",
-      "minecraft:creeper": "2025-11-26 00:34:03 +0100",
-      "minecraft:wither": "2025-11-26 19:14:37 +0100",
       "minecraft:zombie_villager": "2025-11-24 16:46:10 +0100"
     },
     "done": false
@@ -702,9 +710,10 @@
       "minecraft:crimson_forest": "2025-11-27 00:01:54 +0100",
       "minecraft:nether_wastes": "2025-11-24 18:31:10 +0100",
       "minecraft:soul_sand_valley": "2025-11-26 19:11:19 +0100",
-      "minecraft:basalt_deltas": "2025-11-24 17:18:10 +0100"
+      "minecraft:basalt_deltas": "2025-11-24 17:18:10 +0100",
+      "minecraft:warped_forest": "2025-11-27 17:12:00 +0100"
     },
-    "done": false
+    "done": true
   },
   "mekanism:metallurgic_infuser": {
     "criteria": {
@@ -1174,6 +1183,7 @@
   },
   "regions_unexplored:spelunker": {
     "criteria": {
+      "redstone_caves": "2025-11-27 18:29:28 +0100",
       "prismachasm": "2025-11-26 19:35:16 +0100",
       "scorching_caves": "2025-11-26 19:32:38 +0100"
     },
@@ -1287,63 +1297,15 @@
     },
     "done": true
   },
-  "tombstone:adventure/use_frost_resistance": {
-    "criteria": {
-      "has_magic_scroll": "2025-11-26 23:20:21 +0100"
-    },
-    "done": true
-  },
-  "minecraft:end/kill_dragon": {
-    "criteria": {
-      "killed_dragon": "2025-11-26 23:17:30 +0100"
-    },
-    "done": true
-  },
-  "cataclysm:kill_all_bosses": {
-    "criteria": {
-      "cataclysm:ender_guardian": "2025-11-26 23:36:36 +0100"
-    },
-    "done": false
-  },
-  "tombstone:adventure/fortuitous_militia": {
-    "criteria": {
-      "coded_trigger": "2025-11-27 00:23:34 +0100"
-    },
-    "done": true
-  },
-  "apotheosis:gateways/summit": {
-    "criteria": {
-      "complete_summit_gate": "2025-11-27 00:24:12 +0100"
-    },
-    "done": true
-  },
-  "minecraft:nether/uneasy_alliance": {
-    "criteria": {
-      "killed_ghast": "2025-11-27 00:21:49 +0100"
-    },
-    "done": true
-  },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "sugar_cane": "2025-11-27 00:08:26 +0100"
-    },
-    "done": false
-  },
   "apothic_spawners:capturing": {
     "criteria": {
       "egg": "2025-11-26 22:15:42 +0100"
     },
     "done": true
   },
-  "lootr:1shulker": {
+  "immersiveengineering:manual/resonanz": {
     "criteria": {
-      "opened_shulker": "2025-11-26 23:27:22 +0100"
-    },
-    "done": true
-  },
-  "cataclysm:kill_ender_golem": {
-    "criteria": {
-      "endergolem": "2025-11-26 23:22:05 +0100"
+      "has_item": "2025-11-26 22:28:13 +0100"
     },
     "done": true
   },
@@ -1353,11 +1315,59 @@
     },
     "done": false
   },
+  "minecraft:oritech/overenchanted": {
+    "criteria": {
+      "got_overenchanted": "2025-11-26 22:45:01 +0100"
+    },
+    "done": true
+  },
   "minecraft:end/respawn_dragon": {
     "criteria": {
       "summoned_dragon": "2025-11-26 23:14:54 +0100"
     },
     "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-11-26 23:17:30 +0100"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-11-26 23:20:01 +0100"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_frost_resistance": {
+    "criteria": {
+      "has_magic_scroll": "2025-11-26 23:20:21 +0100"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ender_golem": {
+    "criteria": {
+      "endergolem": "2025-11-26 23:22:05 +0100"
+    },
+    "done": true
+  },
+  "lootr:1shulker": {
+    "criteria": {
+      "opened_shulker": "2025-11-26 23:27:22 +0100"
+    },
+    "done": true
+  },
+  "modern_industrialization:quantum_sword": {
+    "criteria": {
+      "checkInv": "2025-11-26 23:36:33 +0100"
+    },
+    "done": true
+  },
+  "cataclysm:kill_all_bosses": {
+    "criteria": {
+      "cataclysm:ender_guardian": "2025-11-26 23:36:36 +0100"
+    },
+    "done": false
   },
   "cataclysm:kill_ender_guardian": {
     "criteria": {
@@ -1371,33 +1381,154 @@
     },
     "done": true
   },
-  "minecraft:oritech/overenchanted": {
-    "criteria": {
-      "got_overenchanted": "2025-11-26 22:45:01 +0100"
-    },
-    "done": true
-  },
-  "modern_industrialization:quantum_sword": {
-    "criteria": {
-      "checkInv": "2025-11-26 23:36:33 +0100"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_magic_scroll": {
-    "criteria": {
-      "has_magic_scroll": "2025-11-26 23:20:01 +0100"
-    },
-    "done": true
-  },
-  "immersiveengineering:manual/resonanz": {
-    "criteria": {
-      "has_item": "2025-11-26 22:28:13 +0100"
-    },
-    "done": true
-  },
   "regions_unexplored:mycologist": {
     "criteria": {
       "yellow_bioshroom": "2025-11-27 00:05:04 +0100"
+    },
+    "done": false
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2025-11-27 00:08:26 +0100",
+      "nether_wart": "2025-11-27 17:20:13 +0100"
+    },
+    "done": false
+  },
+  "minecraft:nether/uneasy_alliance": {
+    "criteria": {
+      "killed_ghast": "2025-11-27 00:21:49 +0100"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-11-27 00:23:34 +0100"
+    },
+    "done": true
+  },
+  "apotheosis:gateways/summit": {
+    "criteria": {
+      "complete_summit_gate": "2025-11-27 00:24:12 +0100"
+    },
+    "done": true
+  },
+  "integrateddynamics:meneglin_basics/drying": {
+    "criteria": {
+      "criteria_0": "2025-11-27 17:56:03 +0100"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_wishing_well": {
+    "criteria": {
+      "location0": "2025-11-27 20:41:56 +0100"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_unstable_intangibility": {
+    "criteria": {
+      "has_magic_scroll": "2025-11-27 19:20:55 +0100"
+    },
+    "done": true
+  },
+  "mekanism:item_transport": {
+    "criteria": {
+      "basic_logistical_transporter": "2025-11-27 17:57:38 +0100"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_kisegi_sanctuary": {
+    "criteria": {
+      "location0": "2025-11-27 20:44:11 +0100"
+    },
+    "done": true
+  },
+  "apothic_spawners:spawncount": {
+    "criteria": {
+      "modifier": "2025-11-27 19:05:24 +0100"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2025-11-27 21:00:08 +0100"
+    },
+    "done": true
+  },
+  "mekanism:configurator": {
+    "criteria": {
+      "configurator": "2025-11-27 17:58:31 +0100"
+    },
+    "done": true
+  },
+  "apothic_spawners:players": {
+    "criteria": {
+      "modifier": "2025-11-27 19:22:00 +0100"
+    },
+    "done": true
+  },
+  "integrateddynamics:root": {
+    "criteria": {
+      "criteria_0": "2025-11-27 17:56:03 +0100"
+    },
+    "done": true
+  },
+  "apothic_spawners:modifier": {
+    "criteria": {
+      "modifier": "2025-11-27 19:01:27 +0100"
+    },
+    "done": true
+  },
+  "apothic_spawners:mindelay": {
+    "criteria": {
+      "modifier": "2025-11-27 19:15:47 +0100"
+    },
+    "done": true
+  },
+  "silentgear:blaze_gold": {
+    "criteria": {
+      "get_item": "2025-11-27 17:07:52 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2025-11-27 20:03:59 +0100"
+    },
+    "done": true
+  },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-11-27 21:22:12 +0100"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-11-27 20:43:17 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-11-27 21:03:55 +0100"
+    },
+    "done": false
+  },
+  "apothic_spawners:maxdelay": {
+    "criteria": {
+      "modifier": "2025-11-27 19:01:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2025-11-27 17:20:13 +0100"
+    },
+    "done": true
+  },
+  "repurposed_structures:ruins": {
+    "criteria": {
+      "in_ruins_nether": "2025-11-27 17:11:31 +0100"
     },
     "done": false
   },

@@ -589,10 +589,12 @@
       "minecraft:blaze": "2025-11-24 17:12:24 +0100",
       "minecraft:skeleton": "2025-11-23 20:30:42 +0100",
       "minecraft:zombified_piglin": "2025-11-24 17:15:03 +0100",
+      "minecraft:witch": "2025-11-27 16:59:29 +0100",
       "minecraft:wither_skeleton": "2025-11-24 16:35:20 +0100",
       "minecraft:husk": "2025-11-24 19:00:40 +0100",
       "minecraft:ghast": "2025-11-24 17:09:48 +0100",
       "minecraft:hoglin": "2025-11-24 18:06:05 +0100",
+      "minecraft:shulker": "2025-11-27 16:48:30 +0100",
       "minecraft:cave_spider": "2025-11-23 21:12:45 +0100",
       "minecraft:piglin": "2025-11-24 17:08:54 +0100",
       "minecraft:vindicator": "2025-11-23 19:41:27 +0100",
@@ -604,6 +606,7 @@
       "minecraft:piglin_brute": "2025-11-24 18:22:34 +0100",
       "minecraft:spider": "2025-11-25 20:52:13 +0100",
       "minecraft:zombie": "2025-11-23 19:10:13 +0100",
+      "minecraft:drowned": "2025-11-27 17:27:46 +0100",
       "minecraft:zombie_villager": "2025-11-24 19:09:07 +0100"
     },
     "done": false
@@ -1097,6 +1100,7 @@
     "criteria": {
       "rare_hand": "2025-11-24 19:55:39 +0100",
       "rare_legs": "2025-11-26 17:33:30 +0100",
+      "rare_chest": "2025-11-27 17:42:01 +0100",
       "rare_feet": "2025-11-24 19:56:46 +0100"
     },
     "done": false
@@ -1218,45 +1222,15 @@
     },
     "done": true
   },
-  "cataclysm:find_ruined_citadel": {
+  "minecraft:story/follow_ender_eye": {
     "criteria": {
-      "citadel": "2025-11-26 18:02:15 +0100"
+      "in_stronghold": "2025-11-26 17:53:50 +0100"
     },
     "done": true
-  },
-  "minecraft:end/dragon_egg": {
-    "criteria": {
-      "dragon_egg": "2025-11-26 17:59:37 +0100"
-    },
-    "done": true
-  },
-  "repurposed_structures:shipwrecks": {
-    "criteria": {
-      "in_shipwreck_end": "2025-11-26 18:06:58 +0100"
-    },
-    "done": false
   },
   "silentgear:the_end": {
     "criteria": {
       "entered_the_end": "2025-11-26 17:54:23 +0100"
-    },
-    "done": true
-  },
-  "minecraft:end/find_end_city": {
-    "criteria": {
-      "in_city": "2025-11-26 18:11:59 +0100"
-    },
-    "done": true
-  },
-  "minecraft:end/enter_end_gateway": {
-    "criteria": {
-      "entered_end_gateway": "2025-11-26 18:00:53 +0100"
-    },
-    "done": true
-  },
-  "minecraft:story/follow_ender_eye": {
-    "criteria": {
-      "in_stronghold": "2025-11-26 17:53:50 +0100"
     },
     "done": true
   },
@@ -1269,6 +1243,42 @@
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2025-11-26 17:54:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-11-26 17:59:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-11-26 18:00:53 +0100"
+    },
+    "done": true
+  },
+  "cataclysm:find_ruined_citadel": {
+    "criteria": {
+      "citadel": "2025-11-26 18:02:15 +0100"
+    },
+    "done": true
+  },
+  "repurposed_structures:shipwrecks": {
+    "criteria": {
+      "in_shipwreck_end": "2025-11-26 18:06:58 +0100"
+    },
+    "done": false
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-11-26 18:11:59 +0100"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_kisegi_sanctuary": {
+    "criteria": {
+      "location0": "2025-11-27 20:45:29 +0100"
     },
     "done": true
   },
